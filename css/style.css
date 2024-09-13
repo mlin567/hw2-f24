@@ -48,14 +48,18 @@ div {
     margin-left: 50px;
     border-bottom: 2px solid #ffffff;
     border-left: 5px solid #ffffff;
+    border-right: none;
+    border-top: none;
 }
 
 .blue {
     background-color: #0000ff;
     text-align:left;
     margin-right: 50px;
-    border-right: 5px solid #ffffff;
     border-top: 2px solid #ffffff;
+    border-right: 5px solid #ffffff;
+    border-left: none;
+    border-bottom: none;
     color: #C4C4C4;
 }
 
@@ -69,15 +73,19 @@ div {
     margin-left: 50px;
     border-bottom: 2px solid #ffffff;
     border-left: 5px solid #ffffff;
+    border-right: none;
+    border-top:none;
     color: #707070;
 }
 
 .green {
-    background-color: #00D800;
+    background-color: #008500;
     text-align: left;
     margin-right: 50px;
     border-right: 5px solid #ffffff;
     border-top: 2px solid #ffffff;
+    border-left: none;
+    border-bottom: none;
 }
 
 footer {
